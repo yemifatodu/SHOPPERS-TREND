@@ -18,7 +18,7 @@ I demonstrated several key skills throughout this project,
 These skills collectively allowed me to extract meaningful insights from the dataset. Once the data was cleaned and prepared, I utilized Tableau for visual analysis and trend identification. Tableau's visualization capabilities enabled me to detect patterns and trends. Now, let’s delve deeper into the data source and uncover valuable recommendations for the business. 
 
 ## visualization
-### LOCATION DISTIBUTION OF CUSTOMER BASE
+### LOCATION DISTRIBUTION OF CUSTOMER BASE
 This map showcasing the location distribution of customers across the United States serves as a foundational visualization in understanding the geographic reach and concentration of your customer base.
 
 ![SHOPPER;S TREND SALES GEOGRAPHICAL LOCATION](https://github.com/yemifatodu/SHOPPERS-TREND/assets/147722919/bcd63cbb-44aa-4ee8-8157-ca0c263d4fd0)
@@ -29,7 +29,7 @@ Analyzing the geographical location distribution of customers across the United 
 
 
 ### GENDER DISTRIBUTION
-This pie chart showcasing the gender distribution of customers in the dataset provides a clear visual representation of the customer base's gender demographics. With 2,652 males and 1,248 females, the total number, resulting in a combined total of 3,900 customers. 
+This pie chart showcasing the gender distribution of customers in the dataset provides a clear visual representation of the customer base's gender demographics. With 2,652 males and 1,248 females, the total number resulted in a combined total of 3,900 customers. 
 ![SHOPPER'S TREND GENDER DISTIBUTION](https://github.com/yemifatodu/SHOPPERS-TREND/assets/147722919/00656b1e-6e5f-438e-87b2-7d4945ef1ce1)
 
 
@@ -38,7 +38,7 @@ This analysis highlights the gender diversity within the customer base and infor
 
 
 
-### CATEGORY OF PURCHASED ITEM WITH RESPECT TO PURCHASE AMOUNT
+### CATEGORY OF PURCHASED ITEM TO PURCHASE AMOUNT
 This area chart visualizes the relationship between purchased items and their corresponding purchased amounts within different categories. This analysis aims to uncover key insights into purchasing patterns, expenditure distribution across categories, and the overall performance of product categories based on sales amounts.
 ![SHOPPER'S TREND CATEGORY OF SALE AMOUNT BY SOLD ITEM](https://github.com/yemifatodu/SHOPPERS-TREND/assets/147722919/4638c0c1-cc74-4ede-973c-a878b475aaa1)
 
@@ -49,23 +49,23 @@ Analyzing this chart allows for deeper insights into customer preferences and po
 
 1.**_Category Performance Analysis_**: This chart provides a comparative view of how different categories perform in terms of purchased amounts. It identifies top-performing categories that contribute significantly to overall sales and highlights areas for potential growth or optimization.
 
-2.**_Trend Identification_**: By examining the trend lines or patterns in the chart, it becomes possible to identify trends in purchasing behavior over time. This includes fluctuations in demand for specific categories, and any notable spikes or dips in sales amounts.
+2.**_Trend Identification_**: By examining the trend lines or patterns in the chart, it becomes possible to identify trends in purchasing behavior over time. This includes fluctuations in demand for specific categories and any notable spikes or dips in sales amounts.
 
-3.**_Expenditure Allocation_**: This chart helps in understanding how customers allocate their expenditure across various product categories. This insight is valuable for strategic decision-making, such as resource allocation, inventory management, and marketing budget allocation.
+3.**_Expenditure Allocation_**: This chart helps in understanding how customers allocate their expenditures across various product categories. This insight is valuable for strategic decision-making, such as resource allocation, inventory management, and marketing budget allocation.
 
 #### **INSIGHTS ANALYSIS**
 
 **Category Optimization**:
 
-Identifing underperforming categories and exploring opportunities for improvement, such as targeted marketing campaigns, product enhancements, or pricing adjustments to boost sales.
+Identifying underperforming categories and exploring opportunities for improvement, such as targeted marketing campaigns, product enhancements, or pricing adjustments to boost sales.
 
 **Seasonal Planning**:
 
-Using trend analysis from the chart can help us plan for seasonal fluctuations in demand. To adjust inventory levels, promotions, and product offerings accordingly to capitalize on seasonal peaks.
+Using trend analysis from the chart can help us plan for seasonal fluctuations in demand. Adjust inventory levels, promotions, and product offerings accordingly to capitalize on seasonal peaks.
 
 **Cross-Selling Opportunities**:
 
-by Identifing complementary product categories or items frequently purchased together. We can leverage this information for cross-selling strategies, bundle offers, and personalized recommendations to enhance customer experience and increase average order value.
+by Identifying complementary product categories or items frequently purchased together. We can leverage this information for cross-selling strategies, bundle offers, and personalized recommendations to enhance customer experience and increase average order value.
 
 
 
@@ -89,7 +89,7 @@ this analysis enables data-driven decision-making, targeted marketing strategies
 #### **INSIGHTS ANALYSIS**
 **Category Expansion Strategies**:
 
-Evaluation of potential for expanding product offerings within high-performing categories. This can be by introduce new variants, features, or product lines to meet diverse customer preferences and increase market share.
+Evaluation of the potential for expanding product offerings within high-performing categories. This can be by introducing new variants, features, or product lines to meet diverse customer preferences and increase market share.
 
 **Seasonal Trends**: 
 
@@ -110,7 +110,7 @@ This bar chart visualizes the frequency of purchases of different products segme
 
 ![SHOOPER'S TREND CHARACTERISTIC OF SALE PRODUCT](https://github.com/yemifatodu/SHOPPERS-TREND/assets/147722919/9c91ecc7-d8d7-44b7-9598-e6974ad74345)
 
-This type of analysis helps businesses understand their customers' preferences and purchasing behavior, leading to informed decisions and strategic actions for product optimization and revenue growth.
+This analysis helps businesses understand their customer's preferences and purchasing behavior, leading to informed decisions and strategic actions for product optimization and revenue growth.
 
 **KEY FINDINGS**
 **_Color Preferences_**: Analyze the frequency of purchases across different colors to identify popular color choices among customers. This insight can guide inventory management and marketing strategies.
@@ -168,7 +168,7 @@ Using the heat map to assess the adoption and usage rates of various payment met
 
 **_Customer Behavior Analysis_**:
 
-To nalyze customer behavior patterns related to payment methods, such as preferred payment methods for different product categories, average transaction values per payment method, and frequency of usage.
+To analyze customer behavior patterns related to payment methods, such as preferred payment methods for different product categories, average transaction values per payment method, and frequency of usage.
 
 **_Payment Security and Convenience_**:
 
@@ -213,11 +213,11 @@ Monitor payment method trends over time and adapt payment strategies accordingly
 
 4. **Customer Satisfaction and Feedback**
 Implement a customer feedback mechanism to gather insights on satisfaction levels, product experiences, and areas for improvement. Use this feedback to enhance product quality, customer service, and overall brand perception.
-Leverage customer feedback data to personalize customer interactions and marketing communications. Tailor promotions, offers, and recommendations based on individual preferences and past purchase behavior to foster stronger customer relationships.
+Leverage customer feedback data to personalize customer interactions and marketing communications. Tailor promotions offers, and recommendations based on individual preferences and past purchase behavior to foster stronger customer relationships.
 
 **Dashboard Overview**
 
-The comprehensive dashboard showcasing various analyses and insights is available  on tableau public [](https://tabsoft.co/3QUmmCz) 
+The comprehensive dashboard showcasing various analyses and insights is available  on Tableau Public [](https://tabsoft.co/3QUmmCz) 
 as a PNG file.![SHOPPER;S TREND DASHBOARD](https://github.com/yemifatodu/SHOPPERS-TREND/assets/147722919/d2cbc63a-683f-4e79-8785-cda596484129)
 
 You can access the dataset used for this project through the following link: [Dataset Link](https://github.com/yemifatodu/SHOPPERS-TREND/edit/main/README.md).
