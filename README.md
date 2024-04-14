@@ -1,4 +1,4 @@
-# SHOPPERS-TREND
+# SHOPPERS-TREND (project)
 CUSTOMER PURCHASE ANALYSIS
 ## Introduction
 Welcome to the Customer Purchase Data Analysis project! In this report, I delve into a comprehensive exploration of shopper trends using a dataset sourced from Kaggle. My goal is to uncover valuable insights that can inform business decisions and enhance customer experiences.
